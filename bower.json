@@ -1,0 +1,23 @@
+{
+  "name": "Multivision",
+  "version": "0.0.0",
+  "authors": [
+    "Timothy Smith <smith.timothy83@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "toastr": "~2.1.2",
+    "angular": "~1.4.7",
+    "angular-resource": "~1.4.7",
+    "angular-route": "~1.4.7"
+  }
+}
